@@ -1,0 +1,16 @@
+C:\workspace\bhaskara\formula\bin\Debug\net5.0\formula.exe
+C:\workspace\bhaskara\formula\bin\Debug\net5.0\formula.deps.json
+C:\workspace\bhaskara\formula\bin\Debug\net5.0\formula.runtimeconfig.json
+C:\workspace\bhaskara\formula\bin\Debug\net5.0\formula.runtimeconfig.dev.json
+C:\workspace\bhaskara\formula\bin\Debug\net5.0\formula.dll
+C:\workspace\bhaskara\formula\bin\Debug\net5.0\ref\formula.dll
+C:\workspace\bhaskara\formula\bin\Debug\net5.0\formula.pdb
+C:\workspace\bhaskara\formula\obj\Debug\net5.0\formula.csprojAssemblyReference.cache
+C:\workspace\bhaskara\formula\obj\Debug\net5.0\formula.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\bhaskara\formula\obj\Debug\net5.0\formula.AssemblyInfoInputs.cache
+C:\workspace\bhaskara\formula\obj\Debug\net5.0\formula.AssemblyInfo.cs
+C:\workspace\bhaskara\formula\obj\Debug\net5.0\formula.csproj.CoreCompileInputs.cache
+C:\workspace\bhaskara\formula\obj\Debug\net5.0\formula.dll
+C:\workspace\bhaskara\formula\obj\Debug\net5.0\ref\formula.dll
+C:\workspace\bhaskara\formula\obj\Debug\net5.0\formula.pdb
+C:\workspace\bhaskara\formula\obj\Debug\net5.0\formula.genruntimeconfig.cache
